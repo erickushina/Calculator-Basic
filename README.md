@@ -1,2 +1,2 @@
 # Calculator-Basic
-Hii!! My name is Erick  and this is my first calulator basic , I'm begginer in programming , but I want to improve int the programming's wordls
+Hii!! My name is Erick  and this is my first calulator basic , I'm begginer in programming , but I want to improve int the programming's worlds
