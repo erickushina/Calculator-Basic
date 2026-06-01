@@ -33,6 +33,7 @@ def signal_operator():
 
 print('WELCOME TO MY CALCULATOR!!\n')
 print('Do you Want?: ')
+print('Please. You only respond (Yes) or (No)')
 mul = input('Multiplication?: ').lower()
 subtr = input('Minus: ' ).lower()
 divide = input('Divition?: ').lower()
